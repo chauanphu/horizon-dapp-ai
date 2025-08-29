@@ -1,0 +1,17 @@
+[project]
+name = "horizon-dapp-ai"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "crawl4ai>=0.7.4",
+    "matplotlib>=3.10.5",
+    "numpy>=2.3.2",
+    "ollama>=0.5.3",
+    "pandas>=2.3.2",
+    "playwright>=1.55.0",
+    "pydantic>=2.11.7",
+    "seaborn>=0.13.2",
+    "torch>=2.8.0",
+]
